@@ -1,9 +1,7 @@
 ## Hi there 👋
-I am a Backend Software engineer with over 4 years of experience building scalable systems using Node.js. I have a strong background in building fintech, health tech, and edutech solutions, utilizing my knowledge of various database technologies. Currently, I work as a Backend developer at Earnipay where I focus on building APIs as well as integrating third-party APIs.
+I am a Backend Software engineer with over 4 years of experience building scalable systems using Node.js. I have a strong background in building fintech, health tech, and edutech solutions, utilizing my knowledge of various database technologies.
 
-
-
-I am always eager to learn and stay up-to-date with new technologies and industry trends. I am dedicated to delivering high-quality and efficient solutions. Confident that my experience and enthusiasm will make a valuable contribution to your team.
+I am always eager to learn and stay up-to-date with new technologies and industry trends. I am dedicated to delivering high-quality and efficient solutions. 
 <!--
 **anita-igboh/anita-igboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
